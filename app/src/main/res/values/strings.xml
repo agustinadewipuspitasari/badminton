@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">badminton</string>
+
+    <string-array name="badminton_name">
+        <item>Ahsan Hendra</item>
+        <item>Fajar Rian</item>
+        <item>Anthony Ginting</item>
+        <item>Gregoria</item>
+        <item>Greysia Apriyani</item>
+        <item>Ihsan Maulana</item>
+        <item>Jonatan Christie</item>
+        <item>Kevin Gideon</item>
+        <item>Tontowi Ahmad</item>
+        <item>Praveen Melati</item>
+    </string-array>
+
+    <array name="badminton_image">
+        <item>@drawable/ahsan</item>
+        <item>@drawable/fajri</item>
+        <item>@drawable/ginting</item>
+        <item>@drawable/grego</item>
+        <item>@drawable/greysia</item>
+        <item>@drawable/ihsan</item>
+        <item>@drawable/jojo</item>
+        <item>@drawable/kevin</item>
+        <item>@drawable/owi</item>
+        <item>@drawable/praveen</item>
+    </array>
+
+
+</resources>
