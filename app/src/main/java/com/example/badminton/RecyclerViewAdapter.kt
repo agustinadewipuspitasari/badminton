@@ -14,7 +14,7 @@ class RecyclerViewAdapter(private val context: Context, private val items: List<
     override fun onCreateViewHolder(
         parent: ViewGroup,
         viewType: Int
-    )= ViewHolder(LayoutInflater.from(context).inflate(R.layout.list_item, parent, false))
+    )= ViewHolder(LayoutInflater.from(context).inflate(R.layout.profil_list, parent, false))
 
     override fun onBindViewHolder(holder: RecyclerViewAdapter.ViewHolder, position: Int) {
         holder.bindItem(items[position])

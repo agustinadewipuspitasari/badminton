@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_atlet"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/atlet" />
+
+    <item
+        android:id="@+id/navigation_turnamen"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="@string/turnamen" />
+
+</menu>
